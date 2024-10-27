@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "dashboard",
+      "badge": [
+        "danger",
+        "5"
+      ],
+      "submenu": [
+       
+        {
+          "url": "/stock-report",
+          "name": "Stock Report",
+          "slug": "dashboard-stock-report"
+        }       
+        ]
+      }
+    ]
+}
